@@ -1,0 +1,55 @@
+# Development
+test_out.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Build
+build/
+dist/
+*.egg-info/
+*.wheel
+
+# Installations
+pip-wheel-metadata/
+*.log
+
+# Environments
+*.env
+.envrc
+venv/
+.venv/
+env/
+ENV/
+.venv/
+.pytest_cache/
+.cache/
+
+# Operating Systems
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+._*
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# IDE
+## Visual Studio Code 설정
+.vscode/
+.history/
