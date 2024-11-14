@@ -4,7 +4,9 @@ setup(
     name='cbrext',
     version='0.1.0',
     packages=find_packages(),
-    install_requires=[],
+    install_requires=[
+        'pandas ~= 2.2.2'
+    ],
     entry_points={
         'console_scripts': [
             'cbrext = src.cli:main',
