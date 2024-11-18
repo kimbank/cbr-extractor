@@ -1,4 +1,4 @@
-# Compressed Beamforming Extractor
+# Compressed Beamforming Report Extractor
 
 ## Overview
 
