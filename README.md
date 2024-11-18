@@ -133,8 +133,10 @@ python -m unittest discover -s tests
 python -m pip uninstall cbrext
 ```
 
-## Citation
+## Reference
 
-Meneghello, Francesca, Rossi, Michele, and Restuccia, Francesco. "DeepCSI: Rethinking Wi-Fi Radio Fingerprinting Through MU-MIMO CSI Feedback Deep Learning." In IEEE International Conference on Distributed Computing Systems, 2022.
+During development of this tool, we referred to the following paper and its dataset:
+
+F. Meneghello, M. Rossi, and F. Restuccia, "DeepCSI: Rethinking Wi-Fi Radio Fingerprinting Through MU-MIMO CSI Feedback Deep Learning," In IEEE International Conference on Distributed Computing Systems, 2022.
 
 See: https://github.com/francescamen/DeepCSI for more details.
